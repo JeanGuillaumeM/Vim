@@ -8,9 +8,9 @@ Déplacement dans les split  	          	    	 --> ctrl + w + flèche direction
 Début de ligne                       		       	 --> 0
 Fin de ligne                        	    	   	 --> $
 Copier			    	             	   	 --> y
-Couper			    		   	             --> dd
-Coller			    		                          	 --> p
-Retour en arrière	                    		    	 --> u
+Couper			    		   	          --> dd
+Coller			    		              	 --> p
+Retour en arrière	                  	 --> u
 Retour en avant				                     	     --> ctrl + r
 Recherche		    		                           	 --> /"texte"
 Recherche en arrière		              	      	 --> ?"texte"
