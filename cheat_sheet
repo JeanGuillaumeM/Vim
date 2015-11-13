@@ -14,8 +14,8 @@ Retour en arrière	                          	 --> u
 Retour en avant				                 --> ctrl + r
 Recherche		    		                 --> /"texte"
 Recherche en arrière		              	 	 --> ?"texte"
-Recherche dans le sens de la recherche		       --> n
-Recherche dans le sens inverse de la recherche   --> N
+Recherche dans le sens de la recherche		         --> n
+Recherche dans le sens inverse de la recherche         --> N
 quitter				                             	   	 --> :w
 quitter et enregistrer			   	                 --> :wq
 quitter sans enregistrer les modifications  	   --> :q!
