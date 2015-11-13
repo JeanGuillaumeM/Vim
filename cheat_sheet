@@ -7,8 +7,8 @@ Split horizontal           		                 	 --> ctrl + w h
 Déplacement dans les split  	          	    	 --> ctrl + w + flèche direction
 Début de ligne                       		       	 --> 0
 Fin de ligne                        	    	   	 --> $
-Copier			    	                        	   	 --> y
-Couper			    		   	                         --> dd
+Copier			    	             	   	 --> y
+Couper			    		   	             --> dd
 Coller			    		                          	 --> p
 Retour en arrière	                    		    	 --> u
 Retour en avant				                     	     --> ctrl + r
