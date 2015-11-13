@@ -16,8 +16,8 @@ Recherche		    		                 --> /"texte"
 Recherche en arrière		              	 	 --> ?"texte"
 Recherche dans le sens de la recherche		         --> n
 Recherche dans le sens inverse de la recherche           --> N
-quitter				                     --> :w
-quitter et enregistrer			   	       --> :wq
-quitter sans enregistrer les modifications  	      --> :q!
-Répéter la dernière commande			       --> .
-Transpose deux lettres entres elles		       --> xp
+quitter				                        --> :w
+quitter et enregistrer			   	         --> :wq
+quitter sans enregistrer les modifications  	       -> :q!
+Répéter la dernière commande			         --> .
+Transpose deux lettres entres elles		        --> xp
