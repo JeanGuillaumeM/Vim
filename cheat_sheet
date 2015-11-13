@@ -1,5 +1,5 @@
-Aller à la dernière ligne du document      	        --> G
-Reculer de début de mot en début de mot	   	        --> b
+Aller à la dernière ligne du document      	         --> G
+Reculer de début de mot en début de mot	   	         --> b
 Avancer de début de mot en début de mot	            	 --> w
 Créé un nouveau fichier   		                 --> :e "nom_fichier"
 Split vertical                      		 	 --> ctrl + w v
