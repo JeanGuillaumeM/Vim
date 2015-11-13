@@ -4,7 +4,7 @@ Avancer de début de mot en début de mot	       	 --> w
 Créé un nouveau fichier   		             	     --> :e "nom_fichier"
 Split vertical                      		 	 --> ctrl + w v
 Split horizontal           		           	 --> ctrl + w h
-Déplacement dans les split  	           	 --> ctrl + w + flèche direction
+Déplacement dans les split  	                	 --> ctrl + w + flèche direction
 Début de ligne                       		       	 --> 0
 Fin de ligne                        	    	   	 --> $
 Copier			    	             	   	 --> y
